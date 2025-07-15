@@ -3,4 +3,3 @@ result.*
 result_for_all/
 *.log
 *.pyc
-*.jsonl
